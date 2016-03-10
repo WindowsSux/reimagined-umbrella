@@ -8,4 +8,5 @@ TO DO LIST:
     
     Deadline: end of spring break
 
-2.
+2. Upload system sketch to Slack for discussion by Thursday.
+
