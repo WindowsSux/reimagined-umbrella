@@ -23,3 +23,13 @@ ________________________________________________________________________________
 5. Get a functioning system as quickly as possible.
     number of modules should exceed number of teams
         define appropriate interfaces so data can flow smoothly
+
+Groups:
+    1. Grant info, class info, calendar/holidays
+        
+    2. expense, employee info, timecard
+        
+    3. reports, testing, dummy data
+    
+    FAQ/UserGuide/ImportantInfo/Troubleshooting
+        
