@@ -1,0 +1,76 @@
+  Has Access app on tablet
+  Juola meta-question: Are the screens configurable for adding new database information?
+    Can you add an "add add new section" button on the homescreen?
+  Clara's comments Access option:
+    flexibility concern
+    class list changes in the middle of the year
+    teachers could be teaching multiple classes
+    likes simple homepage - good homepage interface -- especially the simple buttons
+    likes check boxes for class days
+      could she change these in the middle of the year?
+      (sarah's interjection thought - could we do drop down menus for the class start and end time? 
+        hour, minute (maybe in 5 or 10 minute increments), am/pm)
+    how does this deal with holidays and days off?
+      class cancelling more concerned with projections
+    is there a way to have a drop down menu for employee names in the timecard?
+    is there a way to have active/inactive employees
+  Clara's comments WebApp option:
+    likes the format of the webapp
+    need to look into importing
+      (mark's interjection: need a standard format for an excel document for uploading)
+    would this have a calendar and be able to predit and project the dates?
+    would like day of the week checkboxes
+    date range is a semester or whole year (doesn't matter) as long as the holiday part is included
+      time part is not necessary for the dates but needs class start and end time
+    likes that everybody can have access but not edit
+    doesn't have to be on a certain computer to run a report
+    
+  Clara's comments on reporting:
+    Line item breakdown useful
+    Change "pace" to "planned" in line item reporting
+    readonly views are helpful
+
+  How will Clara be able to edit the app when she's on her own?
+  
+  She likes the webapp features to share best.  Bad experience with access in a dropbox and locking people out from a shared file.
+  Need flexibility from year to year with an import feature
+    Clayton interject - add button on datasheet
+    make sure we copy information before we edit
+  Enter timesheets individually by person
+  Classes within a semester have unique names and only repeat the following year if there are the same classes
+  teachers keep the same salary for each class but may get a new contract for a new position with a different salary
+    (teacher might get a case manager or secretary contract mid-year)
+  Teachers who sub might get a different salary from the regular teacher
+    (ie a class could have multiple teachers and multiple salaries)
+  Clerical, supplies, travel under grant - extra classes tied to classes
+    Travel should be attached to a person under a grant
+  Teachers under classes under grant
+  Nice to have: Purchase Order number/comment field
+  Grant entry: broken down into subsection: supplies (general and books), travel, teachers, (other???)
+    add line item for grant feature
+  
+  reports:
+    where are the teachers salareies being charged to?
+      report for teacher
+      report for all teachers for each grant
+      clara understands hours better - others understand dollars better
+  
+  Juola:
+    how does information get out of the tablet
+    is there any way to get data in in bulk?
+      rollover function?
+      import function?
+      helpful for importing classes and teachers more quickly
+    could classes have multiple locations?
+      might not have the same holidays
+        some places might have off for election day, others not
+    could build in the option for a frequency
+      could we handle a biweekly option?
+        clara says there is one class that meets only the first two weeks of the month
+        workshops sometimes happen once a month
+        
+Holiday calendar:
+  building specific or all classes option
+    
+      
+  
