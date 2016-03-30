@@ -13,6 +13,8 @@ GROUP 1: Clayton/Sarah
     
     - Create Reports tab
     
+    - Duplicate entry logic
+    
     - User guide
     
     
@@ -47,6 +49,10 @@ GROUP 3: Jordan/Mark  - anything with a $$$
     - Work on timecards inputs
     
     - Report for budgets
+    
+GROUP 4: Ines 
+
+    - Find a way to create a welcome page in a webapp
 
 
 Future Tasks to be assigned:
