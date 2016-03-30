@@ -1,0 +1,14 @@
+Need to solidify modules (again)
+Discuss how to snapshot webapp and queries
+
+Critical path:
+  There is a task path that takes the longest non-redundant time (this is the critical path)
+  The length of the critical path defines the minimum length of time to complete the project
+    (The manual can be done at any time and debugging takes 6 weeks - so delaying the manual by a day is ok but the debugging should not be delayed)
+    Do not let the critical path slip!
+  Make sure there are plans in place to be able to fix schedule slippage along the critical path.
+    (The solution to this isn't more man hours - adding more manpower to a late project makes it later)
+      Solutions: delay the release, work smarter not harder (find a way to fix it), scale down
+    
+  What does the critical path look like and what are the contingency plans?
+    
