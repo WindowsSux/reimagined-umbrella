@@ -77,3 +77,6 @@ Future Tasks to be assigned:
     - Testing
     
     - Homepage?
+    
+Client Meeting: 
+Have Clara sign off on every page
