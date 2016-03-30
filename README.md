@@ -9,6 +9,8 @@ GROUP 1: Clayton/Sarah
     
     - Create Dummy Data
     
+    - Create Blackout dates table
+    
     Note: Sarah is out of town April 2 - April 10.  Clayton will keep in communication with Sarah and will continue to assign         tasks.  
 
 
@@ -20,6 +22,10 @@ GROUP 2: Michael/Wei
             - Implement into app
             
         2. grant dollars 
+        
+    - Report for hours 
+    
+    - Report for blackout dates to get projected
 
 
 GROUP 3: Jordan/Mark
@@ -28,15 +34,20 @@ GROUP 3: Jordan/Mark
         - Implement into app
         
     - Start working on report display
+    
+    - Input fields - do we have all the input fields that gather all the information we need to support reports and calendar?
 
 
 Future Tasks to be assigned:
 
     - Blackout dates query
     
+    - Reporting:
+        - Mock up
+    
     - Continuing to edit dummy data
     
-    - Import functionality
+    - Importing functionality
     
     - User guide
     
