@@ -7,68 +7,58 @@ GROUP 1: Clayton/Sarah
 
     - PM/Task Assigning
     
-    - Create Dummy Data
-    
-    - Create Blackout dates table
-    
-    - Create Reports tab
-    
-    - Duplicate entry logic
+    - Critical Path - NON-Instructional planning tab (same as classes) Due by Friday 
+    - Critical Path - Add employee "role" to timesheets: Instructional, Clerical, Case Management, Data Entry??? Due by Friday
+   
+    - Blackout data - add categories "ALL Classes", "ALL Locations" to table 
+    - Add Location to classes views and tables 
     
     - User guide
     
+    - Data validation and test specs to Ines (blackout dates)
+
+GROUP 2: Michael/Wei  - anything with Timesheets 
+
     
-    Note: Sarah is out of town April 2 - April 10.  Clayton will keep in communication with Sarah and will continue to assign         tasks.  
-
-
-GROUP 2: Michael/Wei  - anything with a time/date
-
-    - Figure out how to create a calendar function in SharePoint Lists (pushing data to and from the app and Outlook)
-        - Implement into app
-        
     - Report for hours 
     
     - Report for blackout dates to get projected
     
     - Report for timesheets
+    
+    - Data validation and test specs to Ines (timesheets related input and reports, test all formula)
 
 
-GROUP 3: Jordan/Mark  - anything with a $$$
+GROUP 3: Jordan/Mark  - anything with a Reports
 
+
+    
+    - Finish Grant reports, adding non-instructional Spending
+        
+    - integrate blackout dates into reports
+    
+     - Data validation and test specs to Ines (Grant/Class input and reports, test all formula)
+    
+   
+
+Would be nice to explore:
+
+    - Figure out how to create a calendar function in SharePoint Lists (pushing data to and from the app and Outlook)
+    - Implement into app
     - Create formulas and work out logic
     
-        1. getting budgeted hours from schedule - time/day/rate - output budget per class
-            - Implement into app
-            
-        2. grant dollars 
-        
-    - Start working on report display
     
-    - Input fields - do we have all the input fields that gather all the information we need to support reports and calendar?
-    
-    - Work on timecards inputs
-    
-    - Report for budgets
     
 GROUP 4: Ines 
 
+    - ALL testing. Please submit specs through SLACK to Ines in New Channel #testing
     - Find a way to create a welcome page in a webapp
+    - Validation reporting, Please inform groups what data validation is missing from the user perspective 
 
 
 Future Tasks to be assigned:
 
-    - Blackout dates query
-    
-    - PROJECTED HOURS AND SPENDING
-    
-    - Reporting:
-        - Mock up
-        - Budget by class (Group3)
-        - Budget by expense line item (Group3)
-        - Planned spending by class (Group3)
-        - Time sheet report (Group2)
-    
-    - Continuing to edit dummy data
+    - data validation 
     
     - Importing functionality
     
@@ -80,3 +70,4 @@ Future Tasks to be assigned:
     
 Client Meeting: 
 Have Clara sign off on every page
+
