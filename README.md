@@ -19,6 +19,7 @@ GROUP 1: Clayton/Sarah
 
 GROUP 2: Michael/Wei  - anything with Timesheets 
 
+    - Critical Path - Timesheet Date changes (Starting/Ending or just Ending???)   Due by Friday
     
     - Report for hours 
     
