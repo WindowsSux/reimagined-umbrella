@@ -1,0 +1,79 @@
+
+Software Engineering - Class Notes
+04/04/2016
+
+------------------------------------------
+
+GENERAL CLASS NOTES:
+
+Demonstrated site as of 04/04 to Clara on projector from class computer
+Bookmarked working link for Clara on her tablet, from which she was able to verify accessibility
+Should have a funtionally complete version next time we meet with Clara (04/18)
+
+------------------------------------------
+
+GRANT NOTES:
+
+Find a way to work in a split between projected instructional spend and projected non-instructional spend
+Categories for non-instructional hours: Clerical, Data entry, Case Management
+For deficit/surplus report (either on main report, or subreports / new reports), show deficit/surplus BY EXPENSE CATEGORY
+
+------------------------------------------
+
+CLASS NOTES:
+
+Semester not necessary -- remove it
+Request to have a report that returns classes that are running within a time frame input by the end user
+Would be *nice*to*have* a way to show expense associated with a class live as she enters the class input details to understand cost of proposed class
+Make clear as part of documenting an app user's manual how to handle teacher changing mid-class or 2 teachers planned for 1 class (both cases treat as 2 classes)
+Change language of "budgeted" to "planned"
+Round hours on any reports (this goes for other categories as well)
+Add a field for class location (see notes for Blackout Dates)
+
+------------------------------------------
+
+EMPLOYEE NOTES:
+
+Default the "Active" check box to be checked indicating employees are active unless noted otherwise
+
+------------------------------------------
+
+TIMECARD NOTES:
+
+Typically paid 2x / month (15th and last of month)
+Replace "Week_Start" field with "Pay_Period_Start_Date" and "Pay_Period_End_Date"
+(above Will allow for greatest flexibility, as pay periods change in duration for holidays and other off-cases)
+Roles: Teacher, Data Entry, Clerical, Case Management & Other
+Plans for a timecard report to reflect those active employees who did vs. did not submit a timecard in the current/last/most recent (?) pay period
+
+------------------------------------------
+
+NON-PAYROLL EXPENSE NOTES:
+
+Add a "Notes" field
+
+------------------------------------------
+
+BLACKOUT DATES NOTES:
+
+Make blackout dates location specific, with a dropdown including all locations (pulling from locations entered in class forms to date)
+Also include an "All locations" option
+
+------------------------------------------
+
+*** GENERATE TEST CASES ***:
+
+Everyone should be thinking of test cases to test functionality of parts of the app that are currently functioning
+Send these test cases with expected results to Ines to carry out and provide feedback (will be an ongoing process from now until end of project)
+
+------------------------------------------
+
+OTHER / EXTRA:
+
+Make everything larger
+Make deficits red
+Add totals beneath all datasheet-style reports
+Import/export/between-year-maintenence recommmendations
+Development of user's manual
+Potential macro to back up and save datasheet views for an archive of what existed at specific points in time
+Add data validation & comments on pages for clarity (while still maintaining a clean uncluttered page)
