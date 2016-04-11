@@ -7,11 +7,11 @@ GROUP 1: Clayton/Sarah
 
     - PM/Task Assigning
     
-    - Critical Path - NON-Instructional planning tab (same as classes) Due by Friday 
-    - Critical Path - Add employee "role" to timesheets: Instructional, Clerical, Case Management, Data Entry??? Due by Friday
+    X    - Critical Path - NON-Instructional planning tab (same as classes) Due by Friday 
+    X    - Critical Path - Add employee "role" to timesheets: Instructional, Clerical, Case Management, Data Entry??? Due by Friday
    
-    - Blackout data - add categories "ALL Classes", "ALL Locations" to table 
-    - Add Location to classes views and tables 
+    X   - Blackout data - add categories "ALL Classes", "ALL Locations" to table 
+    X   - Add Location to classes views and tables 
     
     - User guide
     
@@ -19,7 +19,7 @@ GROUP 1: Clayton/Sarah
 
 GROUP 2: Michael/Wei  - anything with Timesheets 
 
-    - Critical Path - Timesheet Date changes (Starting/Ending or just Ending???)   Due by Friday
+    X   - Critical Path - Timesheet Date changes (Starting/Ending or just Ending???)   Due by Friday
     
     - Report for hours 
     
@@ -38,15 +38,17 @@ GROUP 3: Jordan/Mark  - anything with a Reports
         
     - integrate blackout dates into reports
     
-     - Data validation and test specs to Ines (Grant/Class input and reports, test all formula)
+    - Data validation and test specs to Ines (Grant/Class input and reports, test all formula)
+    
+    - Build blackout date conflict checker
     
    
 
 Would be nice to explore:
 
-    - Figure out how to create a calendar function in SharePoint Lists (pushing data to and from the app and Outlook)
-    - Implement into app
-    - Create formulas and work out logic
+    DROPPED - Figure out how to create a calendar function in SharePoint Lists (pushing data to and from the app and Outlook)
+                - Implement into app
+                - Create formulas and work out logic
     
     
     
@@ -61,13 +63,15 @@ Future Tasks to be assigned:
 
     - data validation 
     
-    - Importing functionality
+    - Importing functionality - excel templates
     
     - User guide
     
     - Testing
     
-    - Homepage?
+    DROPPED - Homepage?
+    
+    - Auto Backup
     
 Client Meeting: 
 Have Clara sign off on every page
