@@ -1,0 +1,44 @@
+Budget by Grant:
+  - have breakdown per line item
+    - instructional, non-instructional, other (travel, supplies)
+    - add another report tab next to budget by grant for line item break down
+
+Employees page:
+  - test for volunteers
+    - add validation to default all rates to 0
+    
+    
+Timesheets:
+  - change button names in reports
+  - add dropdown for employee and class name on employee report
+  - add in non-instructional breakdown on employee report
+  
+Non-Payroll Expenses:
+  - expense category drop down menu - remove instructional and non-intructional
+  
+Plan Other:
+  - should we change the sorting to employee category rather than sorting by grant
+  
+Plan Classes:
+  - remove all locations from class location drop down menu
+  - make sure schedules are measured in 15 minute blocks
+  - round planned instruction to nearest hundreth
+  - class schedule check
+    - change 'class conflict view' heading after 'return overlapping classes' button is clicked
+  - add total to class overview sheet
+
+Blackout Dates:
+  - require only location or class but not both
+  - can we just add the location to the plan other page for the employee and if that's the case, will it be part of the blackout data?
+  
+Locations: 
+
+Arrange side bar to reflect ideal order 
+  - (Grant - Employee - Class Location - Blackout Dates - Plan Classes - Plan Other - Non-Payroll Expenses - Timesheets)
+  
+More information on page (rather than user guides) is better
+HOW DOES SHE SAVE EVERYTHING?  DOES SHE HAVE TO DO IT FOR EVERY PAGE INDIVIDUALLY?
+Is there a way to show the average employee instructional rate on the employee report page?
+
+
+  
